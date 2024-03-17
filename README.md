@@ -29,6 +29,11 @@
 - Jadwal Sholat
 - Arah Kiblat
 
+## :book: Assets API
+
+https://quran-api.santrikoding.com/
+https://open-api.my.id/doa
+
 ## :compass: Roadmap
 
 - [x] Baca Al-Quran
