@@ -31,8 +31,8 @@
 
 ## :book: Assets API
 
-https://quran-api.santrikoding.com/
-https://open-api.my.id/doa
+- https://quran-api.santrikoding.com/
+- https://open-api.my.id/doa
 
 ## :compass: Roadmap
 
