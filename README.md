@@ -1,79 +1,41 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<div align='center'>
 
-# Getting Started
+<h1>Ngadji - Aplikasi Baca Quran</h1>
+<p> Ngadji adalah sebuah aplikasi yang dirancang untuk memudahkan pengguna dalam membaca Al-Qur'an. Aplikasi ini menyediakan berbagai fitur yang dapat meningkatkan pengalaman membaca Al-Qur'an, antara lain: Tampilan yang Menarik: Ngadji menawarkan tampilan yang menarik dan bersih, membuat pengguna merasa nyaman dan fokus saat membaca Al-Qur'an. Pencarian Ayat: Pengguna dapat dengan mudah mencari ayat-ayat tertentu dalam Al-Qur'an berdasarkan kata kunci atau nomor surah dan ayat. Bookmark: Fitur bookmark memungkinkan pengguna untuk menandai ayat-ayat favorit atau yang ingin diingat, sehingga dapat diakses dengan cepat di masa mendatang. Audio Bacaan: Ngadji menyediakan audio bacaan Al-Qur'an yang dilantunkan dengan tartil oleh qari ternama, memungkinkan pengguna untuk mendengarkan bacaan dengan baik. Terjemahan: Aplikasi ini juga dilengkapi dengan terjemahan Al-Qur'an dalam berbagai bahasa, memudahkan pengguna yang ingin memahami makna dari ayat-ayat Al-Qur'an. Fitur Pembelajaran: Ngadji juga menyediakan fitur pembelajaran dengan tafsir ayat dan hadits terkait, membantu pengguna untuk mendalami pemahaman Al-Qur'an. Pengaturan Tampilan: Pengguna dapat mengatur tampilan sesuai preferensi mereka, termasuk ukuran teks, tema, dan lainnya. Dengan kombinasi fitur-fitur tersebut, Ngadji menjadi aplikasi yang berguna bagi mereka yang ingin mendalami dan memahami Al-Qur'an dengan lebih baik, baik dari segi bacaan, terjemahan, maupun pemahaman konteksnya.</p>
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+<h4> <span> · </span> <a href="https://github.com/volumeee/Ngadji-Aplikasi-Baca-Al-Quran/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/volumeee/Ngadji-Aplikasi-Baca-Al-Quran/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/volumeee/Ngadji-Aplikasi-Baca-Al-Quran/issues"> Request Feature </a> </h4>
 
-## Step 1: Start the Metro Server
+</div>
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+# :notebook_with_decorative_cover: Table of Contents
 
-To start Metro, run the following command from the _root_ of your React Native project:
+- [About the Project](#star2-about-the-project)
+- [Roadmap](#compass-roadmap)
 
-```bash
-# using npm
-npm start
+## :star2: About the Project
 
-# OR using Yarn
-yarn start
-```
+### :camera: Screenshots
 
-## Step 2: Start your Application
+<div align="center"> <a href=""><img src="https://i.ibb.co/CVTWw6c/Group-742.png" alt='image' width='800'/></a> </div>
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+### :dart: Features
 
-### For Android
+- Tampilan yang Menarik
+- Pencarian Ayat
+- Bookmark
+- Audio Bacaan
+- Terjemahan
+- Fitur Pembelajaran
+- Jadwal Sholat
+- Arah Kiblat
 
-```bash
-# using npm
-npm run android
+## :compass: Roadmap
 
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+- [x] Baca Al-Quran
+- [x] Jadwal Sholat
+- [x] Riwayat Bacaan/Bookmarks
+- [x] Alarm Sholat
+- [ ] Pilih Bahasa
+- [ ] User Setting
+- [ ] Doa-doa
+- [ ] Arah Kiblat
